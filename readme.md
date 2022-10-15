@@ -1,0 +1,1 @@
+git remote add origin https://chalimbu:acces_token@github.com/chalimbu/protobotapp-ci-cd.git
